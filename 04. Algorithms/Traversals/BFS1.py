@@ -1,5 +1,4 @@
-#BFS => Breadth First Search is a traversal algorithm for a tree or graph.
-
+#BFS => Breadth First Search is a traversal algorithm for a tree or graph method.
 
 class Node():
     def __init__(self, data):
